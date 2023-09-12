@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "88b8508cd9e40a2a",
+        "id": "240e80c331794d70",
         "type": "tabs",
         "children": [
           {
-            "id": "95aa18cb435799b9",
+            "id": "e23e88decb0d481a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日常记录笔记/日记/2023-09-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日常记录笔记/日记/2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日常记录笔记/日记/2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日常记录笔记/日记/2023-09-12.md"
+              }
             }
           }
         ],
@@ -152,8 +160,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "95aa18cb435799b9",
+  "active": "e23e88decb0d481a",
   "lastOpenFiles": [
+    "日常记录笔记/日记/未命名.md",
+    "日常记录笔记/日记/2023-09-12.md",
+    "未命名.md",
+    "日常记录笔记/日记",
+    "未命名",
     "日常记录笔记",
     "基础知识笔记",
     "专业学习笔记"
