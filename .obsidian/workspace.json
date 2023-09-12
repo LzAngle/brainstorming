@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常记录笔记/日记/2023-09-12.md",
+                "file": "专业学习笔记/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常记录笔记/日记/2023-09-12.md",
+                "file": "专业学习笔记/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常记录笔记/日记/2023-09-12.md",
+                "file": "专业学习笔记/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常记录笔记/日记/2023-09-12.md"
+                "file": "专业学习笔记/未命名.md"
               }
             }
           }
@@ -160,10 +160,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e23e88decb0d481a",
+  "active": "63a8d24598f74d2a",
   "lastOpenFiles": [
-    "日常记录笔记/日记/未命名.md",
+    "基础知识笔记/未命名.md",
+    "专业学习笔记/未命名.md",
     "日常记录笔记/日记/2023-09-12.md",
+    "日常记录笔记/日记/未命名.md",
     "未命名.md",
     "日常记录笔记/日记",
     "未命名",
