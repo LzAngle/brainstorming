@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "240e80c331794d70",
+        "id": "f80ede88f3bf141a",
         "type": "tabs",
         "children": [
           {
-            "id": "e23e88decb0d481a",
+            "id": "af3c78ad78451fde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业学习笔记/未命名.md",
+                "file": "专业学习笔记/Java/netty/NIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,6 +31,7 @@
       {
         "id": "34eb3e0171fc2df8",
         "type": "tabs",
+        "dimension": 70.38461538461539,
         "children": [
           {
             "id": "63a8d24598f74d2a",
@@ -66,6 +67,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "1f12dfda228d0dfe",
+        "type": "tabs",
+        "dimension": 29.615384615384617,
+        "children": [
+          {
+            "id": "f7997f09e9be02cf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业学习笔记/未命名.md",
+                "file": "专业学习笔记/Java/netty/NIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业学习笔记/未命名.md",
+                "file": "专业学习笔记/Java/netty/NIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业学习笔记/未命名.md"
+                "file": "专业学习笔记/Java/netty/NIO.md"
               }
             }
           }
@@ -160,17 +176,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e23e88decb0d481a",
+  "active": "af3c78ad78451fde",
   "lastOpenFiles": [
-    "基础知识笔记/未命名.md",
-    "专业学习笔记/未命名.md",
+    "专业学习笔记/Java/netty/未命名.md",
+    "专业学习笔记/Java/netty/NIO.md",
+    "专业学习笔记/Java/netty/Netty.md",
     "日常记录笔记/日记/2023-09-12.md",
+    "专业学习笔记/Java/netty/Netty主体知识概括.md",
+    "专业学习笔记/未命名.md",
+    "专业学习笔记/Java/netty",
+    "专业学习笔记/Java",
+    "专业学习笔记/netty",
+    "日常记录笔记/记录",
+    "未命名",
+    "基础知识笔记/未命名.md",
+    "基础知识笔记/软考",
+    "基础知识笔记/英语",
+    "基础知识笔记/数学",
     "日常记录笔记/日记/未命名.md",
     "未命名.md",
     "日常记录笔记/日记",
-    "未命名",
-    "日常记录笔记",
-    "基础知识笔记",
-    "专业学习笔记"
+    "日常记录笔记"
   ]
 }
