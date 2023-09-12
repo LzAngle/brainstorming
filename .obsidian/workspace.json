@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业学习笔记/Java/netty/NIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业学习笔记/Java/netty/NIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业学习笔记/Java/netty/NIO.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -176,10 +174,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "af3c78ad78451fde",
+  "active": "fa6e88fad7b3c6a2",
   "lastOpenFiles": [
-    "专业学习笔记/Java/netty/未命名.md",
     "专业学习笔记/Java/netty/NIO.md",
+    "conflict-files-obsidian-git.md",
+    "专业学习笔记/Java/netty/未命名.md",
     "专业学习笔记/Java/netty/Netty.md",
     "日常记录笔记/日记/2023-09-12.md",
     "专业学习笔记/Java/netty/Netty主体知识概括.md",
