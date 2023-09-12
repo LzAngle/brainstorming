@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "caa8e7d7bacb3269",
+    "id": "77d7e7371340084e",
     "type": "split",
     "children": [
       {
-        "id": "672b6cd0c0d7c489",
+        "id": "c7a47828a7c0fde9",
         "type": "tabs",
         "children": [
           {
-            "id": "3a174c712fe69a13",
+            "id": "58479282363d5689",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "专业学习笔记/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "712376e66c6d9866",
+    "id": "d3b050aba6989690",
     "type": "split",
     "children": [
       {
-        "id": "34eb3e0171fc2df8",
+        "id": "34493aff6baca5d3",
         "type": "tabs",
         "children": [
           {
-            "id": "63a8d24598f74d2a",
+            "id": "3cd93f5285b53269",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "7cee90d270702f8a",
+            "id": "c36fc6bf0df33021",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "f222c243c3ca8eaf",
+            "id": "aa26d78b1709523e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "87d4444541e39b2d",
+    "id": "b0e32379af707786",
     "type": "split",
     "children": [
       {
-        "id": "654fd132bf38eebb",
+        "id": "aff499f5e490c959",
         "type": "tabs",
         "children": [
           {
-            "id": "79e1fd47b6ad1296",
+            "id": "4d32a17e31f049a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "专业学习笔记/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "93757192c7f8f495",
+            "id": "6dfc65c69a716191",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "专业学习笔记/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9487d699be0b5d0b",
+            "id": "cd0a98fff22d64ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,33 +120,21 @@
             }
           },
           {
-            "id": "d80b871ddc85d979",
+            "id": "826b02ffa1110d35",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "043e2c694c9b0113",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa6e88fad7b3c6a2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {
+                "file": "专业学习笔记/未命名.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,15 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a174c712fe69a13",
+  "active": "58479282363d5689",
   "lastOpenFiles": [
     "日常记录笔记/日记/2023-09-12.md",
-    "日常记录笔记/日记/未命名.md",
-    "未命名.md",
-    "日常记录笔记/日记",
-    "未命名",
-    "日常记录笔记",
-    "基础知识笔记",
-    "专业学习笔记"
+    "基础知识笔记/未命名.md"
   ]
 }
