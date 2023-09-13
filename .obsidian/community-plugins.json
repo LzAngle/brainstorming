@@ -1,6 +1,10 @@
 [
   "obsidian-git",
+  "obsidian-linter",
   "calendar",
   "oz-clear-unused-images",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
+  "dataview",
+  "obsidian-icon-folder"
 ]

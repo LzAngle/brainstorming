@@ -1,40 +1,53 @@
 {
   "main": {
-    "id": "caa8e7d7bacb3269",
+    "id": "77d7e7371340084e",
     "type": "split",
     "children": [
       {
-        "id": "f80ede88f3bf141a",
+        "id": "d6d950b713233fda",
         "type": "tabs",
         "children": [
           {
-            "id": "af3c78ad78451fde",
+            "id": "2049d5902e96dc7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业学习笔记/Java/netty/Netty.md",
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "36aa754417ef2eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Netty MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "712376e66c6d9866",
+    "id": "d3b050aba6989690",
     "type": "split",
     "children": [
       {
-        "id": "34eb3e0171fc2df8",
+        "id": "34493aff6baca5d3",
         "type": "tabs",
-        "dimension": 70.38461538461539,
+        "dimension": 74.54819277108435,
         "children": [
           {
-            "id": "63a8d24598f74d2a",
+            "id": "3cd93f5285b53269",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +57,7 @@
             }
           },
           {
-            "id": "7cee90d270702f8a",
+            "id": "c36fc6bf0df33021",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +72,7 @@
             }
           },
           {
-            "id": "f222c243c3ca8eaf",
+            "id": "aa26d78b1709523e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,12 +82,12 @@
         ]
       },
       {
-        "id": "1f12dfda228d0dfe",
+        "id": "a2582c98311954e9",
         "type": "tabs",
-        "dimension": 29.615384615384617,
+        "dimension": 25.451807228915662,
         "children": [
           {
-            "id": "f7997f09e9be02cf",
+            "id": "e88791e17ad09a2c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -88,20 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "87d4444541e39b2d",
+    "id": "b0e32379af707786",
     "type": "split",
     "children": [
       {
-        "id": "654fd132bf38eebb",
+        "id": "aff499f5e490c959",
         "type": "tabs",
         "children": [
           {
-            "id": "79e1fd47b6ad1296",
+            "id": "4d32a17e31f049a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业学习笔记/Java/netty/Netty.md",
+                "file": "Netty MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,19 +126,19 @@
             }
           },
           {
-            "id": "93757192c7f8f495",
+            "id": "6dfc65c69a716191",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业学习笔记/Java/netty/Netty.md",
+                "file": "Netty MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9487d699be0b5d0b",
+            "id": "cd0a98fff22d64ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,12 +149,12 @@
             }
           },
           {
-            "id": "d80b871ddc85d979",
+            "id": "826b02ffa1110d35",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业学习笔记/Java/netty/Netty.md"
+                "file": "Netty MOC.md"
               }
             }
           }
@@ -149,11 +162,11 @@
         "currentTab": 3
       },
       {
-        "id": "043e2c694c9b0113",
+        "id": "fafee37d1e826ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "fa6e88fad7b3c6a2",
+            "id": "60998add50dcf425",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,27 +189,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "af3c78ad78451fde",
+  "active": "36aa754417ef2eba",
   "lastOpenFiles": [
-    "专业学习笔记/Java/netty/NIO.md",
-    "conflict-files-obsidian-git.md",
-    "专业学习笔记/Java/netty/未命名.md",
-    "专业学习笔记/Java/netty/Netty.md",
-    "日常记录笔记/日记/2023-09-12.md",
-    "专业学习笔记/Java/netty/Netty主体知识概括.md",
-    "专业学习笔记/未命名.md",
-    "专业学习笔记/Java/netty",
-    "专业学习笔记/Java",
-    "专业学习笔记/netty",
-    "日常记录笔记/记录",
-    "未命名",
-    "基础知识笔记/未命名.md",
-    "基础知识笔记/软考",
-    "基础知识笔记/英语",
-    "基础知识笔记/数学",
-    "日常记录笔记/日记/未命名.md",
-    "未命名.md",
-    "日常记录笔记/日记",
-    "日常记录笔记"
+    "My PKM Folders.md",
+    "Home.md",
+    "Netty.md",
+    "Netty MOC.md",
+    "NIO.md",
+    "Spaces",
+    "Sources",
+    "Extras",
+    "基础知识笔记/Linux.md",
+    "专业学习笔记/ceshi.md",
+    "Calendar/Daily Notes/2023-09-12.md",
+    "Coding Study Notes/Java/netty",
+    "Coding Study Notes/Java"
   ]
 }
