@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d6d950b713233fda",
+        "id": "20d66a77755f3f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "2049d5902e96dc7a",
+            "id": "5a58b27ef4f717d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "36aa754417ef2eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Netty MOC.md",
+                "file": "Atlas/PROFESSION MOC.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +95,7 @@
       {
         "id": "aff499f5e490c959",
         "type": "tabs",
+        "dimension": 56.51149086623454,
         "children": [
           {
             "id": "4d32a17e31f049a9",
@@ -114,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netty MOC.md",
+                "file": "Atlas/PROFESSION MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netty MOC.md",
+                "file": "Atlas/PROFESSION MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netty MOC.md"
+                "file": "Atlas/PROFESSION MOC.md"
               }
             }
           }
@@ -164,6 +153,7 @@
       {
         "id": "fafee37d1e826ca2",
         "type": "tabs",
+        "dimension": 43.48850913376546,
         "children": [
           {
             "id": "60998add50dcf425",
@@ -186,22 +176,44 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "36aa754417ef2eba",
+  "active": "5a58b27ef4f717d6",
   "lastOpenFiles": [
-    "My PKM Folders.md",
+    "Cards/计算机系统题目.md",
+    "Extras/Media/Pasted image 20230917165456.png",
+    "Extras/Media/Pasted image 20230917165327.png",
+    "Extras/Media/Pasted image 20230917164545.png",
+    "Extras/Media/Pasted image 20230917164303.png",
+    "Extras/Media/Pasted image 20230917164259.png",
+    "Extras/Media/Pasted image 20230917163653.png",
+    "Cards/NIO.md",
+    "Spaces/软考/软考笔记.md",
     "Home.md",
-    "Netty.md",
-    "Netty MOC.md",
-    "NIO.md",
+    "Extras/Media/Pasted image 20230917142931.png",
+    "Extras/Media/Pasted image 20230917143821.png",
+    "Extras/Media/Pasted image 20230917144541.png",
+    "Cards/Netty.md",
+    "Extras/My PKM Folders.md",
+    "Extras/Media/Pasted image 20230917143132.png",
+    "Extras/Media",
+    "Atlas/PROFESSION MOC.md",
+    "Calendar/2023-09-17.md",
+    "Calendar/未命名.md",
+    "Calendar/未命名",
+    "Calendar/2023-09-12.md",
+    "Extras/Templater/MOC TEMPLATER.md",
+    "Cards/未命名.md",
+    "Spaces/软考",
+    "Atlas/未命名.md",
+    "Extras/Templater",
     "Spaces",
     "Sources",
     "Extras",
     "基础知识笔记/Linux.md",
     "专业学习笔记/ceshi.md",
-    "Calendar/Daily Notes/2023-09-12.md",
     "Coding Study Notes/Java/netty",
     "Coding Study Notes/Java"
   ]

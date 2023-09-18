@@ -5,5 +5,6 @@
   "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
   "minimal-style@@inline-title-size": "2.125em",
   "minimal-style@@inline-title-color@@light": "#1F864A",
-  "minimal-style@@metadata-heading-off": true
+  "minimal-style@@metadata-heading-off": true,
+  "minimal-style@@blockquote-size": "0.9em"
 }

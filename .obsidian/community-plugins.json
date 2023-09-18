@@ -6,5 +6,8 @@
   "obsidian-style-settings",
   "obsidian-minimal-settings",
   "dataview",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "editing-toolbar",
+  "templater-obsidian",
+  "mousewheel-image-zoom"
 ]

@@ -6,7 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiMap"
+      "IbArchive",
+      "IbDatabse",
+      "IbRectangleOnRectangleVertical",
+      "IbGrid",
+      "IbCalendar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -18,5 +22,10 @@
     },
     "iconInTabsEnabled": false
   },
-  "Atlas": "LiMap"
+  "Atlas": "LiMap",
+  "Calendar": "IbCalendar",
+  "Cards": "IbGrid",
+  "Extras": "IbRectangleOnRectangleVertical",
+  "Sources": "IbDatabse",
+  "Spaces": "IbArchive"
 }
