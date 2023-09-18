@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/PROFESSION MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/PROFESSION MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/PROFESSION MOC.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -180,8 +178,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a58b27ef4f717d6",
+  "active": "3cd93f5285b53269",
   "lastOpenFiles": [
+    "Atlas/PROFESSION MOC.md",
+    "conflict-files-obsidian-git.md",
     "Cards/计算机系统题目.md",
     "Extras/Media/Pasted image 20230917165456.png",
     "Extras/Media/Pasted image 20230917165327.png",
@@ -199,7 +199,6 @@
     "Extras/My PKM Folders.md",
     "Extras/Media/Pasted image 20230917143132.png",
     "Extras/Media",
-    "Atlas/PROFESSION MOC.md",
     "Calendar/2023-09-17.md",
     "Calendar/未命名.md",
     "Calendar/未命名",

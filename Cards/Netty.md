@@ -12,7 +12,6 @@ Netty is an asynchronous event-driven network application framework
 for rapid development of maintainable high performance protocol servers & clients.
 ```
 Netty 是一个异步的、基于事件驱动的网络应用框架，用于快速开发可维护、高性能的网络服务器和客户端
-
 ### 1.2 Netty 的作者
 ![image.png|541](https://cdn.nlark.com/yuque/0/2023/png/22271853/1684122245634-93431721-bcd9-45f6-9bd3-798383d54563.png#averageHue=%237ba57c&clientId=uce15c22e-5382-4&from=paste&id=u42a98c70&originHeight=461&originWidth=789&originalType=url&ratio=1&rotation=0&showTitle=false&size=149654&status=done&style=none&taskId=ubaee3cc1-c08a-4e9a-a30f-4422c482677&title=)他还是另一个著名网络应用框架 Mina 的重要贡献者
 
