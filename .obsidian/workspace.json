@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/PROFESSION MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas/PROFESSION MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Atlas/PROFESSION MOC.md"
               }
             }
           }
@@ -178,10 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3cd93f5285b53269",
+  "active": "60998add50dcf425",
   "lastOpenFiles": [
-    "Atlas/PROFESSION MOC.md",
     "conflict-files-obsidian-git.md",
+    "Atlas/PROFESSION MOC.md",
     "Cards/计算机系统题目.md",
     "Extras/Media/Pasted image 20230917165456.png",
     "Extras/Media/Pasted image 20230917165327.png",
