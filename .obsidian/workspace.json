@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8cbcbb5642f990d4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cbcbb5642f990d4",
+  "active": "60998add50dcf425",
   "lastOpenFiles": [
     "Extras/Media/Pasted image 20230922000131.png",
     "Extras/My PKM Folders.md",
