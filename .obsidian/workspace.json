@@ -11,8 +11,13 @@
             "id": "7e22efaf9bf38417",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cards/计算机系统题目.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cards/计算机系统题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cards/计算机系统题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cards/计算机系统题目.md"
+              }
             }
           }
         ],
@@ -171,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60998add50dcf425",
+  "active": "7e22efaf9bf38417",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Cards/计算机系统题目.md",
