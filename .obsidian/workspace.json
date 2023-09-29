@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/计算机系统题目.md",
+                "file": "Atlas/PROFESSION MOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/计算机系统题目.md",
+                "file": "Atlas/PROFESSION MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/计算机系统题目.md",
+                "file": "Atlas/PROFESSION MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/计算机系统题目.md"
+                "file": "Atlas/PROFESSION MOC.md"
               }
             }
           }
@@ -180,10 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e22efaf9bf38417",
+  "active": "3cd93f5285b53269",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Cards/计算机系统题目.md",
+    "conflict-files-obsidian-git.md",
     "Extras/Media/Pasted image 20230922000131.png",
     "Extras/My PKM Folders.md",
     "Spaces/软考/软考笔记.md",
