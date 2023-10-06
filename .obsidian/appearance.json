@@ -1,6 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Minimal",
-  "theme": "moonstone",
-  "baseFontSize": 17
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "withSyn"
+  ]
 }

@@ -1,0 +1,12 @@
+/* 适配24寸电脑显示屏 */
+@media screen and (min-width: 1440px) {
+    /* 在此处添加适配24寸电脑显示屏的样式 */
+
+  }
+  
+  /* 适配iPad 10.9寸显示屏 */
+  @media screen and (max-width: 768px) {
+    /* 在此处添加适配iPad 10.9寸显示屏的样式 */
+    
+  }
+  
