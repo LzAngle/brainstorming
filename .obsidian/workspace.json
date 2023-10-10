@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "92ce398a6d1c97da",
+        "id": "a24481d695c14efc",
         "type": "tabs",
         "children": [
           {
-            "id": "0a8df309b037fdf3",
+            "id": "0e20ce206092930a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Cards/计算机系统题目.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Cards/计算机系统题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Cards/计算机系统题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Cards/计算机系统题目.md"
               }
             }
           },
@@ -170,19 +170,30 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "obsidian-weread-plugin:Weread": false
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "0a8df309b037fdf3",
+  "active": "0e20ce206092930a",
   "lastOpenFiles": [
+    "Cards/备用笔记，到时候同步.md",
+    "Cards/计算机系统题目.md",
+    "计算机系统题目123.md",
+    "Spaces/软考/软考笔记.md",
+    "111.md",
+    "Home.md",
+    "Sources/Omnivore/2023-10-07/单词森林——阅读.md",
+    "Sources/Omnivore/2023-10-07",
+    "Sources/Omnivore",
+    "Source/Omnivore/2023-10-07/单词森林——阅读.md",
+    "Source/Omnivore/2023-10-07",
+    "Source/Omnivore",
+    "Source",
+    "Sources/Weread/明朝那些事儿（全集）.md",
     "Atlas/📖 Book View.md",
     "Atlas/💻 PROFESSION MOC.md",
-    "Home.md",
     "Extras/🗺️ My PKM Folders.md",
-    "Sources/Weread/明朝那些事儿（全集）.md",
-    "Cards/计算机系统题目.md",
     "Sources/Weread",
-    "Spaces/软考/软考笔记.md",
     "conflict-files-obsidian-git.md",
     "Extras/Media/Pasted image 20230922000131.png",
     "![[Pasted image 20230920230959.png.md",
@@ -203,15 +214,9 @@
     "Calendar/未命名",
     "Calendar/2023-09-12.md",
     "Extras/Templater/MOC TEMPLATER.md",
-    "Cards/未命名.md",
     "Spaces/软考",
     "Extras/Templater",
-    "Spaces",
-    "Sources",
-    "Extras",
     "基础知识笔记/Linux.md",
-    "专业学习笔记/ceshi.md",
-    "Coding Study Notes/Java/netty",
-    "Coding Study Notes/Java"
+    "专业学习笔记/ceshi.md"
   ]
 }

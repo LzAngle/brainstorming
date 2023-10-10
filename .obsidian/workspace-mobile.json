@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Cards/计算机系统题目.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home.md",
+            "file": "Cards/计算机系统题目.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home.md",
+            "file": "Cards/计算机系统题目.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home.md"
+            "file": "Cards/计算机系统题目.md"
           }
         }
       },
@@ -128,25 +128,46 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
   "active": "5837dba7ac82b511",
   "lastOpenFiles": [
-    "Cards/计算机系统题目.md",
     "Spaces/软考/软考笔记.md",
-    "Atlas/PROFESSION MOC.md",
+    "Extras/Media/Pasted image 20230917164303.png",
+    "Cards/NIO.md",
+    "Cards/Netty.md",
+    "Extras/Media/Pasted image 20230922000131.png",
+    "Sources/Weread/明朝那些事儿（全集）.md",
+    "Atlas/📖 Book View.md",
     "Home.md",
+    "Extras/Media/Pasted image 20230919004603.png",
+    "Extras/Media/Pasted image 20230917164545.png",
+    "Extras/Media/Pasted image 20230920224152.png",
+    "Extras/Templater/MOC TEMPLATER.md",
+    "Extras/Media/Pasted image 20230917165327.png",
+    "Extras/Media/Pasted image 20230917163653.png",
+    "Extras/Media/Pasted image 20230917165456.png",
+    "Extras/Media/Pasted image 20230919003047.png",
+    "Extras/Media/Pasted image 20230917142931.png",
+    "Extras/🗺️ My PKM Folders.md",
+    "Atlas/💻 PROFESSION MOC.md",
+    "Cards/计算机系统题目.md",
+    "Cards/备用笔记，到时候同步.md",
+    "Sources/Omnivore/2023-10-07/单词森林——阅读.md",
+    "Atlas/PROFESSION MOC.md",
     "Extras/My PKM Folders.md"
   ]
 }
