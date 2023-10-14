@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/计算机系统题目.md",
+                "file": "Cards/下午试题-试题一.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0197a5ae702120bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/下午试题-试题一.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/计算机系统题目.md",
+                "file": "Cards/下午试题-试题一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/计算机系统题目.md",
+                "file": "Cards/下午试题-试题一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/计算机系统题目.md"
+                "file": "Cards/下午试题-试题一.md"
               }
             }
           },
@@ -176,10 +189,19 @@
   },
   "active": "0e20ce206092930a",
   "lastOpenFiles": [
-    "Cards/备用笔记，到时候同步.md",
-    "Cards/计算机系统题目.md",
-    "计算机系统题目123.md",
+    "Cards/Netty.md",
+    "Cards/NIO.md",
+    "Cards/程序设计语言题目.md",
     "Spaces/软考/软考笔记.md",
+    "Cards/下午试题-试题一.md",
+    "Cards/计算机系统题目.md",
+    "Cards/程序设计语言概念.md",
+    "Extras/Media/Pasted image 20231013220313.png",
+    "Extras/Media/Pasted image 20231013000429.png",
+    "Extras/Media/Pasted image 20231011223216.png",
+    "Extras/Media/Pasted image 20231011211059.png",
+    "Cards/备用笔记，到时候同步.md",
+    "计算机系统题目123.md",
     "111.md",
     "Home.md",
     "Sources/Omnivore/2023-10-07/单词森林——阅读.md",
@@ -202,12 +224,6 @@
     "Extras/Media/Pasted image 20230920224428.png",
     "Extras/Media/Pasted image 20230920224418.png",
     "Extras/Media/Pasted image 20230920224152.png",
-    "Extras/Media/Pasted image 20230919005130.png",
-    "Extras/Media/Pasted image 20230919004912.png",
-    "Extras/Media/Pasted image 20230919004603.png",
-    "Extras/Media/Pasted image 20230919004031.png",
-    "Cards/NIO.md",
-    "Cards/Netty.md",
     "Extras/Media",
     "Calendar/2023-09-17.md",
     "Calendar/未命名.md",
